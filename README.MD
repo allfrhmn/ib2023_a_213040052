@@ -1,4 +1,4 @@
-*Nama:* __Allfiandi Rahman__
-*NPM:* __213040052__
-*Kelas:* __B__
-*Mata Kuliah:* __Intelegensia Buatan__
+- **Nama:** _Allfiandi Rahman_
+- **NPM:** _213040052_
+- **Kelas:** _B_
+- **Mata Kuliah:** _Intelegensia Buatan_
