@@ -1,4 +1,4 @@
 - **Nama:** _Allfiandi Rahman_
 - **NPM:** _213040052_
-- **Kelas:** _B_
+- **Kelas:** _A_
 - **Mata Kuliah:** _Intelegensia Buatan_
